@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Cardiac Imaging",
+    "subtitle": "ECG",
+    "description": "ECG is used for recording the small electric waves being generated during heart activity, a simple way of diagnosing heart conditions. In Padma Diagnostic Centre Limited we use Nihon Khoden Cardiofax 1350K for ECG.",
+    "price": 10000,
+    "img": "https://cdn3.vectorstock.com/i/1000x1000/79/72/electrocardiogram-vector-787972.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Radiology Services",
+    "subtitle": "X-Ray",
+    "description": "X-rays provide imaging for diagnosing fractures, infections, and other internal conditions. Our center uses the latest Siemens DR System for high-quality imaging.",
+    "price": 5000,
+    "img": "https://cdn4.vectorstock.com/i/1000x1000/12/14/x-ray-icon-vector-23861214.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Laboratory Services",
+    "subtitle": "Blood Test",
+    "description": "Comprehensive blood tests for diagnostic and health assessment purposes. We use state-of-the-art equipment for accurate results.",
+    "price": 2000,
+    "img": "https://cdn3.vectorstock.com/i/1000x1000/12/92/blood-test-icon-vector-20871292.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dental Care",
+    "subtitle": "Dental X-Ray",
+    "description": "Dental X-rays help in the diagnosis of oral conditions like cavities, gum disease, and jaw issues. High-resolution digital imaging ensures minimal radiation.",
+    "price": 8000,
+    "img": "https://cdn4.vectorstock.com/i/1000x1000/36/86/dental-x-ray-icon-cartoon-vector-20433686.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Diagnostic Imaging",
+    "subtitle": "MRI",
+    "description": "MRI scans provide detailed imaging of organs and tissues, aiding in the diagnosis of complex conditions. We utilize Philips Ingenia 1.5T for superior results.",
+    "price": 20000,
+    "img": "https://cdn3.vectorstock.com/i/1000x1000/74/87/mri-scan-concept-icon-vector-27757487.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ultrasound Services",
+    "subtitle": "Obstetric Ultrasound",
+    "description": "Advanced obstetric ultrasound services for prenatal care, ensuring accurate and detailed fetal imaging. We use the GE Voluson series for clarity and safety.",
+    "price": 7000,
+    "img": "https://cdn3.vectorstock.com/i/1000x1000/02/45/ultrasound-icon-vector-28900245.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Oncology Services",
+    "subtitle": "Chemotherapy",
+    "description": "Comprehensive chemotherapy services provided by experienced oncologists. Safe and hygienic infusion treatments for cancer management.",
+    "price": 30000,
+    "img": "https://cdn3.vectorstock.com/i/1000x1000/36/79/chemotherapy-icon-line-art-vector-21023679.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ophthalmology",
+    "subtitle": "Vision Screening",
+    "description": "Detailed vision screening for detecting refractive errors, glaucoma, and other eye conditions. Advanced diagnostic tools ensure precision.",
+    "price": 3000,
+    "img": "https://cdn4.vectorstock.com/i/1000x1000/12/05/eye-exam-vector-23771205.jpg"
+  }
+]
