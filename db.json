@@ -1,4 +1,5 @@
-[
+{
+"posts":[
   {
     "id": 1,
     "name": "Cardiac Imaging",
@@ -64,3 +65,4 @@
     "img": "https://cdn4.vectorstock.com/i/1000x1000/12/05/eye-exam-vector-23771205.jpg"
   }
 ]
+}
