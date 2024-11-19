@@ -5,7 +5,7 @@
       "name": "Cardiac Imaging",
       "subtitle": "ECG",
       "description": "ECG is used for recording the small electric waves being generated during heart activity, a simple way of diagnosing heart conditions. In Padma Diagnostic Centre Limited we use Nihon Khoden Cardiofax 1350K for ECG.",
-      "price": 10000,
+      "price": 100,
       "img": "https://lakeimaging.com.au/wp-content/uploads/2023/01/redfeb23-banner-mobile-495x400.png"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Radiology Services",
       "subtitle": "X-Ray",
       "description": "X-rays provide imaging for diagnosing fractures, infections, and other internal conditions. Our center uses the latest Siemens DR System for high-quality imaging.",
-      "price": 5000,
+      "price": 50,
       "img": "https://mypvhc.com/wp-content/uploads/2018/08/shutterstock_510230818.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Laboratory Services",
       "subtitle": "Blood Test",
       "description": "Comprehensive blood tests for diagnostic and health assessment purposes. We use state-of-the-art equipment for accurate results.",
-      "price": 2000,
+      "price": 20,
       "img": "https://www.828urgentcare.com/Sites/B35EE094-1733-4F45-AE3A-184C3FAB532F/images/wp-content/uploads/2018/03/Onsite-Laboratory-Investigations-and-Screening-Services.jpg?v=150120220501074920878"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Dental Care",
       "subtitle": "Dental X-Ray",
       "description": "Dental X-rays help in the diagnosis of oral conditions like cavities, gum disease, and jaw issues. High-resolution digital imaging ensures minimal radiation.",
-      "price": 8000,
+      "price": 80,
       "img": "https://www.the-dentist.co.uk/media/bh4bunfe/dental-care-of-the-future.jpg?width=800&height=450&format=webp&quality=80&bgcolor=White&v=1da1d35534edb40"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Diagnostic Imaging",
       "subtitle": "MRI",
       "description": "MRI scans provide detailed imaging of organs and tissues, aiding in the diagnosis of complex conditions. We utilize Philips Ingenia 1.5T for superior results.",
-      "price": 20000,
+      "price": 200,
       "img": "https://www.datocms-assets.com/98319/1682006348-mri-banner.jpg?auto=format,compress&w=800"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Ultrasound Services",
       "subtitle": "Obstetric Ultrasound",
       "description": "Advanced obstetric ultrasound services for prenatal care, ensuring accurate and detailed fetal imaging. We use the GE Voluson series for clarity and safety.",
-      "price": 7000,
+      "price": 70,
       "img": "https://www.fda.gov/files/ultrasound_transducer.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Oncology Services",
       "subtitle": "Chemotherapy",
       "description": "Comprehensive chemotherapy services provided by experienced oncologists. Safe and hygienic infusion treatments for cancer management.",
-      "price": 30000,
+      "price": 300,
       "img": "https://lovelacemedicalgroup.com/sites/default/files/service-images/stroke_facility_iStock-474202902.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Ophthalmology",
       "subtitle": "Vision Screening",
       "description": "Detailed vision screening for detecting refractive errors, glaucoma, and other eye conditions. Advanced diagnostic tools ensure precision.",
-      "price": 3000,
+      "price": 30,
       "img": "https://medical.rossu.edu/sites/g/files/krcnkv261/files/styles/atge_3_2_crop_md/public/2022-04/Opthalmology.webp?h=f9d06ff2&itok=i-7cDC00"
     }
   ]
